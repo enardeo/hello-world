@@ -8,3 +8,4 @@ And another
 Anothetr
 Otra
 In this update I'll put a comment on the commit to see if it appears in Jenkinks
+Restarted Learning Period on Summer 2018 - August 13th
